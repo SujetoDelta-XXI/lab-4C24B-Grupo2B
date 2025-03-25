@@ -4,3 +4,11 @@ public class StudentController{
 		// TO Do
 	}
 }
+
+
+public class Colegio{
+
+	public void Controller(){
+		// To DO
+	}
+}
