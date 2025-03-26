@@ -12,3 +12,10 @@ public class Colegio{
 		// To DO
 	}
 }
+
+public class Carro{
+	
+	public void Controller(){
+		// TO DO
+	}
+}

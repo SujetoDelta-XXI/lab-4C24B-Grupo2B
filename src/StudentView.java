@@ -4,3 +4,8 @@ public class view{
 		//To DO
 	}
 }
+
+public class static void Empresa{
+		//TO DO
+	}
+}
