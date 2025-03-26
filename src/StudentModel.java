@@ -3,3 +3,6 @@ public class HelloWorld {
     System.out.println("Hello, World!, agregando cambio");
   }
 }
+public class static void{
+ system.out.println("HOla profe");
+}
